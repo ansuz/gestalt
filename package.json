@@ -1,0 +1,23 @@
+{
+  "name": "gestalt",
+  "version": "1.0.0",
+  "description": "a multiparty computation platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ansuz/gestalt.git"
+  },
+  "keywords": [
+    "multiparty",
+    "cryptography"
+  ],
+  "author": "ansuz",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ansuz/gestalt/issues"
+  },
+  "homepage": "https://github.com/ansuz/gestalt#readme"
+}
