@@ -1,7 +1,7 @@
 {
   "name": "gestalt",
   "version": "1.0.0",
-  "description": "a multiparty computation platform",
+  "description": "a standalone server based on the serverside components of CryptPad",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,7 +22,7 @@
   "homepage": "https://github.com/ansuz/gestalt#readme",
   "dependencies": {
     "chainpad-server": "^3.0.0",
-    "ecstatic": "^4.1.1",
+    "ecstatic": "^4.1.2",
     "fs-extra": "^7.0.1",
     "nthen": "^0.1.8",
     "unmon-router": "^1.0.1",
